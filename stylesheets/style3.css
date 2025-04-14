@@ -1,0 +1,18 @@
+@font-face {
+    src: url(fonts/OpenSans-Italic-VariableFont_wdth,wght.ttf);
+    font-family: OpenSans-Italic;      
+}
+@font-face {
+    src: url(fonts/Roboto-VariableFont_wdth,wght);
+    font-family:Roboto;
+}
+
+h1{
+    font-family:Roboto;
+}
+p{
+    font-family:OpenSans-Italic;
+    font-size:  1.1em;
+    font-weight: bold;
+    font-style: italic;
+ }

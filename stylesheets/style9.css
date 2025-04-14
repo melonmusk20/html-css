@@ -1,0 +1,15 @@
+div{
+    background-color: antiquewhite;
+    width: 100px;
+    height: 100px;
+    display:inline;
+    visibility: hidden;
+}
+span{
+    background-color: rgb(149, 43, 43);
+    width: 100px;
+    height: 100px;
+    display:block
+
+   
+}

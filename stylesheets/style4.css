@@ -1,0 +1,13 @@
+h1{
+    border: outset 3px hsl(60, 56%, 91%);
+    border-radius: 3px;
+}
+p{
+    border-bottom: 3px outset beige;
+    border-top: 3px outset hsl(344, 52%, 45%);
+    border-left: 3px outset #a3a45f;
+    border-right: 3px outset rgb(213, 35, 133);
+    border-radius: 10px;
+}
+
+

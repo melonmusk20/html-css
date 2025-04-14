@@ -1,0 +1,19 @@
+#box1{
+    width:200px;
+    height: 200px;
+    background-color: rgb(101, 156, 203);
+    position: sticky;
+    top: 100x;
+    left: 100px;
+
+}
+#box2{
+    width:100px;
+    height:100px;
+    background-color: rgb(117, 125, 132);
+    position: static;
+    top: 50px;
+    left: 50px;
+   
+
+}

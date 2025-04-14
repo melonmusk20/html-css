@@ -1,0 +1,32 @@
+.icons{
+    text-align:center;
+}
+.icons a{
+    text-decoration: none;
+    margin-right:20px;
+}
+.fa-solid.fa-house.fa-5x{
+  color:hsl(353, 10%, 53%);
+}
+.fa-solid.fa-house.fa-5x:hover{
+    color:hsl(353, 16%, 79%);
+ }
+.fa-brands.fa-reddit.fa-5x{
+    color:hsl(0, 82%, 50%);
+ }
+.fa-brands.fa-brands.fa-5x:hover{
+    color:hsl(0, 89%, 69%);
+}
+.fa-brands.fa-youtube.fa-5x{
+  color:hsl(0, 100%, 50%);
+}
+.fa-brands.fa-youtube.fa-5x:hover{
+    color:hsl(0, 77%, 64%);
+  }
+.fa-brands.fa-twitter.fa-5x{
+  color: hsl(203, 92%, 75%);
+}
+.fa-brands.fa-twitter.fa-5x:hover{
+    color: hsl(203, 59%, 81%);
+  }
+  
